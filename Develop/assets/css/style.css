@@ -15,7 +15,7 @@ header {
     color: #ffffff;
 }
 
-.header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
@@ -24,7 +24,7 @@ header h1 span.seo {
     color: #d9dcd6;
 }
 
-.header div {
+header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,16 +32,13 @@ header h1 span.seo {
     font-size: 20px;
 }
 
-.header div ul {
+header div nav {
     list-style-type: none;
 }
 
-.header div ul li {
+header div nav a {
     display: inline-block;
-    margin-left: 25px;
-}
-
-a {
+    margin-left: 25px; 
     color: #ffffff;
     text-decoration: none;
 }
