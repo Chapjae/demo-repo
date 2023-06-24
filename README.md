@@ -2,10 +2,15 @@
 
 ## Description
 
-
 The purpose of this project was two-fold; the first was to incorporate certain accessibility features that were missing in Horiseon's initial design and the second was to improve Horiseon's codebase by refactoring it and reducing redudancies by either consolidating certain CSS selectors into a single selector that fulfilled the same function or by changing certain html elements into semantic html elements, or in some cases both.
 
 These changes will optimize Horiseon for search engines by bringing the site up to their standards of accesibility. 
+
+## User Story
+
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
 ## Usage
 
@@ -31,7 +36,6 @@ These comments have been written over every change in both files so that future 
 
 ## Deployed Link
 [Visit Horiseon](https://chapjae.github.io/horiseon-challenge/)
-[Link to Horiseon Repo] ()
 
 ## Authors
 
